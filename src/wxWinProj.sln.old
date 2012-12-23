@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "wxWinProj", "wxWinProj.vcproj", "{FEC42C46-97FE-4547-BCF4-583ACED78239}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug-Using DLL Libraries
+		ConfigName.1 = Debug-Using Static Libraries
+		ConfigName.2 = Release-Using DLL Libraries
+		ConfigName.3 = Release-Using Static Libraries
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{FEC42C46-97FE-4547-BCF4-583ACED78239}.Debug-Using DLL Libraries.ActiveCfg = Debug-Using DLL libraries|Win32
+		{FEC42C46-97FE-4547-BCF4-583ACED78239}.Debug-Using DLL Libraries.Build.0 = Debug-Using DLL libraries|Win32
+		{FEC42C46-97FE-4547-BCF4-583ACED78239}.Debug-Using Static Libraries.ActiveCfg = Debug-Using Static libraries|Win32
+		{FEC42C46-97FE-4547-BCF4-583ACED78239}.Debug-Using Static Libraries.Build.0 = Debug-Using Static libraries|Win32
+		{FEC42C46-97FE-4547-BCF4-583ACED78239}.Release-Using DLL Libraries.ActiveCfg = Release-Using DLL libraries|Win32
+		{FEC42C46-97FE-4547-BCF4-583ACED78239}.Release-Using DLL Libraries.Build.0 = Release-Using DLL libraries|Win32
+		{FEC42C46-97FE-4547-BCF4-583ACED78239}.Release-Using Static Libraries.ActiveCfg = Release-Using Static libraries|Win32
+		{FEC42C46-97FE-4547-BCF4-583ACED78239}.Release-Using Static Libraries.Build.0 = Release-Using Static libraries|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
